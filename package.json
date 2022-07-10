@@ -1,0 +1,15 @@
+{
+  "name": "theham",
+  "version": "1.0.0",
+  "description": "Wordpress theme",
+  "homepage": "https://vladyslav-panchenko280.github.io/TheHam",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Vladyslav_Panchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
