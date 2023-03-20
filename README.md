@@ -13,5 +13,6 @@ Used technologies:
 - CSS3
 - JavaScript(ES6+)
 - HTML5
+- JQuery
 
 
